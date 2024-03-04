@@ -1,0 +1,30 @@
+// card title
+1. Mountain Magic Hour
+2. Puppy At The Beach
+3. A Man Wanders Through Red Arches In Japan
+4. Fog On Dark Waters
+5. Sunset On Arizona Canyon
+6. Misty Mountain Ranges At Sunrise
+7. Lake In The Mountains At Dusk
+8. Dark Waves In The Sea
+9. A Dark Night Sky With A Vibrant Sun Starting To Set
+10. Hazy Blue Water With Mountain And Wispy White Clouds
+11. Waves Moving Through The Ocean At Dusk
+12. Photo Of Blue Water And Distant Land
+
+// card info
+1. A distant jet stream seen heading from a clouded bright blue sky to a dark star filled one over mountains.
+2. A brown and white dog walks along a beach on a cloudy day.
+3. A man wanders the red archways of a traditional Japanese pathway.
+4. Four wooden columns, surrounding a watery edge on a foggy day. Dark stones and water add mood to this image.
+5. A sunset on this Arizona canyon draws attention to the red sandstone peaks.
+6. Mountain ridges layer up into the skyline, creating a gradient effect. In the distance, a large mountain peak is bathed in morning sunlight.
+7. Sunset over rolling hills and a beautiful woodland lake. Does that lake look vaguely like a wolf silhouette to you?
+8. A close up of dark rippling waves.
+9. A dark sky with a vibrant orange round circle in the middle that is reflecting of calm water below.
+10. Grass sticks out of hazy still blue water with a tall mountain in the distance that is surrounded by wispy white clouds.
+11. Waves move through the ocean.
+12. Photo of blue water with a rock in the foreground and land on the horizon.
+
+// card button
+Read More
